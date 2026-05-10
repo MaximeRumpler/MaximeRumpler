@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Business Enabler · Homelab Tinkerer<br>Based in France, active across Europe
+Business Enabler · Homelab Tinkerer<br>Based in France · Active across Europe
 
 </div>
 
@@ -21,7 +21,7 @@ Business Enabler · Homelab Tinkerer<br>Based in France, active across Europe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime%20Rumpler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximerumpler)&nbsp;
 [![Mastodon](https://img.shields.io/badge/Mastodon-@Max__ime-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@Max__ime)&nbsp;
 [![Substack](https://img.shields.io/badge/Substack-maximerumpler-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@maximerumpler)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-maxime.rumpler-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maxime.rumpler)
+[![Medium](https://img.shields.io/badge/Medium-maxime.rumpler-10B981?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maxime.rumpler)
 
 </div>
 
@@ -82,8 +82,6 @@ Non-dilutive funding, institutional monitoring, and influence networks, optimise
 </tr>
 </table>
 
-<br>
-
 ### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) · Funding & Institutional Intelligence
 
 > *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the real problem.*
@@ -98,7 +96,7 @@ Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deep
 
 → **[Live demo dashboard](https://f3i.kairostech.fr/share/UXVe89tk1wSNiLZhjFaGu0vji2R43kRtY1ONthSRHAA)**&nbsp;&nbsp;|&nbsp;&nbsp;**[Request a demo](mailto:contact@kairostech.fr)**
 
-*Source code is private while interest is confirmed.*
+*Source code is private for now... while interest is confirmed.*
 
 ---
 
