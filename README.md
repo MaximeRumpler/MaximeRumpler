@@ -6,7 +6,8 @@
 
 <div align="center">
 
-Business Enabler · Homelab Tinkerer · Based in France, active across Europe
+Business Enabler · Homelab Tinkerer
+Based in France, active across Europe
 
 </div>
 
