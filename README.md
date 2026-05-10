@@ -17,9 +17,11 @@ Business Enabler · Homelab Tinkerer<br>Based in France, active across Europe
 [![KairosTech](https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://kairostech.fr)&nbsp;
 [![Email](https://img.shields.io/badge/Email-maxime@kairostech.fr-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:maxime@kairostech.fr)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-@Maxime__Rumpler-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Maxime_Rumpler)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime%20Rumpler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximerumpler)&nbsp;
 [![Mastodon](https://img.shields.io/badge/Mastodon-@Max__ime-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@Max__ime)&nbsp;
-[![Substack](https://img.shields.io/badge/Substack-maximerumpler-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@maximerumpler)
+[![Substack](https://img.shields.io/badge/Substack-maximerumpler-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@maximerumpler)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-maxime.rumpler-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maxime.rumpler)
 
 </div>
 
