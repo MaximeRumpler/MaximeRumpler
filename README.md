@@ -46,7 +46,7 @@ I use GitHub to collaborate with developers, track product innovations, and shar
 
 ---
 
-## [![KairosTech](https://img.shields.io/badge/Kairos-Tech-10B981?style=flat-square&labelColor=1C2333&logoColor=white)](https://kairostech.fr) &nbsp;·&nbsp; [![kairostech.fr](https://img.shields.io/badge/kairostech.fr-10B981?style=flat-square)](https://kairostech.fr)
+## [![KairosTech](https://img.shields.io/badge/Kairos-Tech-10B981?style=flat-square&labelColor=1C2333&logoColor=white)](https://kairostech.fr) &nbsp;·&nbsp; [kairostech.fr](https://kairostech.fr)
 
 > *The backbone behind your innovation.*
 
@@ -58,21 +58,21 @@ I work with tech startups and deep tech SMEs to build the systems that transform
 <tr>
 <td valign="top" width="33%" align="center">
 
-**🦾 Go-to-Market**
+**Go-to-Market**
 
 Structure offer and sales, launch the pipeline, hire the first commercial profiles.
 
 </td>
 <td valign="top" width="33%" align="center">
 
-**⚙️ Operations**
+**Operations**
 
 Organise and deliver operations, strategic projects and customer support with rigour, tooling and method.
 
 </td>
 <td valign="top" width="33%" align="center">
 
-**🏛️ F3I**
+**F3I**
 
 Non-dilutive funding, institutional monitoring, and influence networks, optimised through AI.
 
@@ -82,7 +82,7 @@ Non-dilutive funding, institutional monitoring, and influence networks, optimise
 
 <br>
 
-### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) [![Funding & Institutional Intelligence](https://img.shields.io/badge/Funding_%26_Institutional_Intelligence-10B981?style=flat-square)](https://kairostech.fr/offres/f3i.html)
+### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) — Funding & Institutional Intelligence
 
 > *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the real problem.*
 
@@ -102,17 +102,27 @@ Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deep
 
 ## Personal &nbsp;·&nbsp; Homelab & Home Automation
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1AA0C7?style=flat-square&logo=caddy&logoColor=white)
+![NextDNS](https://img.shields.io/badge/NextDNS-00A3E0?style=flat-square&logo=nextdns&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
+![Frigate](https://img.shields.io/badge/Frigate-1C2333?style=flat-square&logoColor=white)
+![Jellyfish](https://img.shields.io/badge/Jellyfish-000B25?style=flat-square&logo=jellyfin&logoColor=white)
+![Copyparty](https://img.shields.io/badge/Copyparty-1C2333?style=flat-square&logoColor=white)
 ![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=flat-square&logo=openproject&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Twenty](https://img.shields.io/badge/Twenty-1C2333?style=flat-square&logo=twenty&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Raindrop](https://img.shields.io/badge/Raindrop-0099CC?style=flat-square&logo=raindropio&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Twenty](https://img.shields.io/badge/Twenty-000000?style=flat-square&logo=twenty&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
+![Bichon](https://img.shields.io/badge/Bichon-1C2333?style=flat-square&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
 Started with a handful of useful self-hosted services. Now on a mission to bring both [KairosTech](https://kairostech.fr) and my personal life as much under my own control as possible.
 
