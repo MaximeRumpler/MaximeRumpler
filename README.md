@@ -6,8 +6,7 @@
 
 <div align="center">
 
-Business Enabler · Homelab Tinkerer
-Based in France, active across Europe
+Business Enabler · Homelab Tinkerer<br>Based in France, active across Europe
 
 </div>
 
@@ -83,11 +82,11 @@ Non-dilutive funding, institutional monitoring, and influence networks, optimise
 
 <br>
 
-### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) — Funding & Institutional Intelligence
+### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) · Funding & Institutional Intelligence
 
 > *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the real problem.*
 
-F3I is a platform built to solve this systematically. It monitors official European and national public sources continuously and surfaces only the opportunities that match an organisation's actual profile and research topic.
+F3I is a platform built to solve this systematically: it monitors official European and national public sources continuously and surfaces only the opportunities that match an organisation's actual profile and research topic.
 
 - **AI-powered monitoring** across 12 countries + EU programs — BPIFrance, Horizon Europe, EIC, German / Italian / Spanish / Polish national agencies *(15 more coming soon)*
 - **Proximity scoring** — each call ranked against a custom profile (sector, maturity stage, geography, strategic priorities)
@@ -101,7 +100,7 @@ Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deep
 
 ---
 
-## Personal &nbsp;·&nbsp; Homelab & Home Automation
+## Personal : Self-hosting &nbsp;·&nbsp; Homelab & Home Automation
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
