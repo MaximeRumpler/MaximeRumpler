@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Business Enabler · Homelab Tinkerer<br>Based in France · Active across Europe
+Business Enabler · Homelab Tinkerer<br>Based in France
 
 </div>
 
@@ -42,7 +42,7 @@ I build [KairosTech](https://kairostech.fr) to be the structural backbone that l
 
 **Spare-time Builder**
 
-I use GitHub to collaborate with developers, track product innovations, and share configs from my homelab. The self-hosting rabbit hole runs deep.
+I use GitHub to collaborate with developers, track product innovations, and share configs from my homelab.
 
 </td>
 </tr>
@@ -90,9 +90,9 @@ Non-dilutive funding, institutional monitoring, and influence networks, optimise
 
 F3I is a platform built to solve this systematically: it monitors official European and national public sources continuously and surfaces only the opportunities that match an organisation's actual profile and research topic.
 
-- **AI-powered monitoring** across 12 countries + EU programs — BPIFrance, Horizon Europe, EIC, German / Italian / Spanish / Polish national agencies *(15 more coming soon)*
-- **Proximity scoring** — each call ranked against a custom profile (sector, maturity stage, geography, strategic priorities)
-- **Collaborative pipeline** — filterable dashboard with weekly automated digests and shareable read-only access
+- **AI-powered monitoring** across 12 countries + EU programs / BPIFrance, Horizon Europe, EIC, German / Italian / Spanish / Polish national agencies etc.
+- **Proximity scoring** : each call ranked against a custom profile (sector, maturity stage, geography, strategic priorities)
+- **Collaborative pipeline** : filterable dashboard with weekly automated digests and shareable read-only access
 
 Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deeptech</kbd> <kbd>semiconductors</kbd> <kbd>health</kbd> <kbd>defense</kbd> <kbd>energy</kbd> <kbd>digital</kbd> <kbd>quantum</kbd>
 
@@ -128,8 +128,4 @@ Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deep
 
 Started with a handful of useful self-hosted services. Now on a mission to bring both [KairosTech](https://kairostech.fr) and my personal life as much under my own control as possible.
 
-**Current stack** *(updated April 2026)*
-
-<div align="center">
-  <img src="assets/Stack052026.png" alt="Current self-hosting stack" width="100%" />
 </div>
