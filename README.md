@@ -1,5 +1,3 @@
-[[KairosTech]]
-
 <div align="center">
   <img src="assets/banner.svg" alt="Maxime Rumpler" width="100%" />
 </div>
