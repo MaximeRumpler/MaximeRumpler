@@ -22,11 +22,13 @@
 
 ### Overview
 
-> **KairosTech**  
-> I build [KairosTech](https://kairostech.fr) to be the structural backbone that lets tech founders focus on what they do best: innovate.
+> **KairosTech**
+**Building structural backbones for tech founders.**
+Turning R&D into market traction through GTM architecture, operational tooling, and AI-driven public funding strategy.  
 
-> **Builder & Tinkerer**  
-> I use GitHub to collaborate with developers, track product innovations, and share configs from my homelab.
+> **Homelab**
+**Self-hosted infrastructure & continuous tinkering.**  
+Collaborating on GitHub, maintaining homelab services, and deploying privacy-first automation tooling. 
 
 ---
 
