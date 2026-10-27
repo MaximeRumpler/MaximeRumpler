@@ -22,21 +22,10 @@
 
 ### Overview
 
-**KairosTech**
-**Building structural backbones for tech founders.**
-Turning R&D into market traction through GTM architecture, operational tooling, and AI-driven public funding strategy.  
-
-> **Homelab**
-**Self-hosted infrastructure & continuous tinkering.**  
-Collaborating on GitHub, maintaining homelab services, and deploying privacy-first automation tooling. 
-
-
-### ⚡ What I Do
-
-| Focus | Mission |
+|  | Mission |
 | :--- | :--- |
-| **🚀 KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
-| **🛠️ Tinkering** | Sharing homelab configs, tracking tech innovation, and open collaboration |
+| ** KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
+| ** Tinkering** | Homelab, tracking innovation and open collaboration |
 
 ---
 
