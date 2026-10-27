@@ -24,8 +24,8 @@
 
 |  | Mission |
 | :--- | :--- |
-| ** KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
-| ** Tinkering** | Homelab, tracking innovation and open collaboration |
+| **KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
+| **Tinkering** | Homelab, tracking innovation and open collaboration |
 
 ---
 
