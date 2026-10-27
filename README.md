@@ -122,3 +122,5 @@ F3I is a platform built to solve this systematically: it monitors official Europ
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
 Started with a handful of useful self-hosted services. Now on a mission to bring both [KairosTech](https://kairostech.fr) and my personal life under my own control, as much as possible.
+
+![Views](https://komarev.com/ghpvc/?username=MaximeRumpler&color=44cc11&style=flat-square&label=views)
