@@ -22,7 +22,7 @@
 
 ### Overview
 
-> **KairosTech**
+**KairosTech**
 **Building structural backbones for tech founders.**
 Turning R&D into market traction through GTM architecture, operational tooling, and AI-driven public funding strategy.  
 
