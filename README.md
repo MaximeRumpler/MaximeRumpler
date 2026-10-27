@@ -10,18 +10,16 @@ Business Enabler · Homelab Tinkerer<br>Based in France
 
 </div>
 
-<br>
-
 <div align="center">
 
 [![KairosTech](https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://kairostech.fr)&nbsp;
 [![Email](https://img.shields.io/badge/Email-maxime@kairostech.fr-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:maxime@kairostech.fr)&nbsp;
+[![Email](https://img.shields.io/badge/Email-maxime@rumpler.fr-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:maxime@rumpler.fr)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-@Maxime__Rumpler-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Maxime_Rumpler)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime%20Rumpler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximerumpler)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime%20Rumpler-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/maximerumpler)&nbsp;
 [![Mastodon](https://img.shields.io/badge/Mastodon-@Max__ime-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@Max__ime)&nbsp;
 [![Substack](https://img.shields.io/badge/Substack-maximerumpler-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@maximerumpler)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-maxime.rumpler-10B981?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maxime.rumpler)
+
 
 </div>
 
@@ -82,6 +80,7 @@ Non-dilutive funding, institutional monitoring, and influence networks, optimise
 </tr>
 </table>
 
+
 ### [![F3I](https://img.shields.io/badge/F-3I-10B981?style=flat-square&labelColor=1C2333)](https://kairostech.fr/offres/f3i.html) · Funding & Institutional Intelligence
 
 > *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the real problem.*
@@ -105,21 +104,23 @@ F3I is a platform built to solve this systematically: it monitors official Europ
 ![Caddy](https://img.shields.io/badge/Caddy-1AA0C7?style=flat-square&logo=caddy&logoColor=white)
 ![NextDNS](https://img.shields.io/badge/NextDNS-00A3E0?style=flat-square&logo=nextdns&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
-![Frigate](https://img.shields.io/badge/Frigate-1C2333?style=flat-square&logoColor=white)
+![Frigate](https://img.shields.io/badge/Frigate-1C2333?style=flat-square)
 ![Jellyfish](https://img.shields.io/badge/Jellyfish-000B25?style=flat-square&logo=jellyfin&logoColor=white)
-![Copyparty](https://img.shields.io/badge/Copyparty-1C2333?style=flat-square&logoColor=white)
+![Copyparty](https://img.shields.io/badge/Copyparty-1C2333?style=flat-square)
 ![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=flat-square&logo=openproject&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Twenty](https://img.shields.io/badge/Twenty-1C2333?style=flat-square&logo=twenty&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Raindrop](https://img.shields.io/badge/Raindrop-0099CC?style=flat-square&logo=raindropio&logoColor=white)
+![Twenty](https://img.shields.io/badge/Twenty-1C2333?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Opencode](https://img.shields.io/badge/Opencode-000000?style=flat-square&logo=opencode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
+![Raindrop](https://img.shields.io/badge/Raindrop-0099CC?style=flat-square&logo=raindrop&logoColor=white)
 ![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
-![Bichon](https://img.shields.io/badge/Bichon-1C2333?style=flat-square&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white)
+![Bichon](https://img.shields.io/badge/Bichon-1C2333?style=flat-square)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
+![Calibre](https://img.shields.io/badge/Calibre-2E6BE6?style=flat-square&logo=calibre&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
 Started with a handful of useful self-hosted services. Now on a mission to bring both [KairosTech](https://kairostech.fr) and my personal life as much under my own control as possible.
