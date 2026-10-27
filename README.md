@@ -52,7 +52,7 @@ I use GitHub to collaborate with developers, track product innovations, and shar
 
 > *The backbone behind your innovation.*
 
-I work with tech startups and deep tech SMEs to build the systems that transform R&D into market traction — commercial architecture, operations & delivery, and institutional strategy.
+I work with tech startups and SMEs to build the systems that transform R&D into market traction. Deploying commercial architecture, operations & delivery, and institutional strategy.
 
 <br>
 
@@ -91,8 +91,6 @@ F3I is a platform built to solve this systematically: it monitors official Europ
 - **AI-powered monitoring** across 12 countries + EU programs / BPIFrance, Horizon Europe, EIC, German / Italian / Spanish / Polish national agencies etc.
 - **Proximity scoring** : each call ranked against a custom profile (sector, maturity stage, geography, strategic priorities)
 - **Collaborative pipeline** : filterable dashboard with weekly automated digests and shareable read-only access
-
-Sectors covered: <kbd>software</kbd> <kbd>startup</kbd> <kbd>SME</kbd> <kbd>deeptech</kbd> <kbd>semiconductors</kbd> <kbd>health</kbd> <kbd>defense</kbd> <kbd>energy</kbd> <kbd>digital</kbd> <kbd>quantum</kbd>
 
 → **[Live demo dashboard](https://f3i.kairostech.fr/share/UXVe89tk1wSNiLZhjFaGu0vji2R43kRtY1ONthSRHAA)**&nbsp;&nbsp;|&nbsp;&nbsp;**[Request a demo](mailto:contact@kairostech.fr)**
 
