@@ -30,6 +30,14 @@ Turning R&D into market traction through GTM architecture, operational tooling, 
 **Self-hosted infrastructure & continuous tinkering.**  
 Collaborating on GitHub, maintaining homelab services, and deploying privacy-first automation tooling. 
 
+
+### ⚡ What I Do
+
+| Focus | Mission |
+| :--- | :--- |
+| **🚀 KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
+| **🛠️ Tinkering** | Sharing homelab configs, tracking tech innovation, and open collaboration |
+
 ---
 
 ## KairosTech · [kairostech.fr](https://kairostech.fr)
