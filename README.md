@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://kairostech.fr"><img src="https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square" alt="KairosTech Website" /></a>
-  <a href="mailto:maxime@kairostech.fr"><img src="https://img.shields.io/badge/Email_Pro-maxime@kairostech.fr-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Professional Email" /></a>
-  <a href="mailto:maxime@rumpler.fr"><img src="https://img.shields.io/badge/Email_Perso-maxime@rumpler.fr-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" /></a>
+  <a href="mailto:maxime@kairostech.fr"><img src="https://img.shields.io/badge/Email_Pro-maxime@kairostech.fr-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Pro" /></a>
+  <a href="mailto:maxime@rumpler.fr"><img src="https://img.shields.io/badge/Email_Perso-maxime@rumpler.fr-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Perso" /></a>
   <a href="https://t.me/Maxime_Rumpler"><img src="https://img.shields.io/badge/Telegram-@Maxime__Rumpler-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://linkedin.com/in/maximerumpler"><img src="https://img.shields.io/badge/LinkedIn-Maxime%20Rumpler-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mastodon.social/@Max__ime"><img src="https://img.shields.io/badge/Mastodon-@Max__ime-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
@@ -20,19 +19,20 @@
 
 ---
 
-### Overview
+### **Overview**
 
-|  | Mission |
-| :--- | :--- |
-| **KairosTech** | Structural backbone letting tech founders focus strictly on innovation |
-| **Tinkering** | Homelab, tracking innovation and open collaboration |
+**KairosTech**
+> *Building the structural backbone so founders can focus on innovation.*  
+I partner with founders to design scalable business architecture, technical operations, and turn complex ideas into robust value.
+
+
+**Tinkering & Continuous Learning**
+> Self-hosting, Tracking Innovation and Open Source projects
 
 ---
 
-## KairosTech · [kairostech.fr](https://kairostech.fr)
-
+## <a href="https://kairostech.fr"><img src="https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square" alt="KairosTech Website" /></a>
 > *The backbone behind your innovation.*
-
 I work with tech startups and SMEs to build the systems that turn R&D into market traction: commercial architecture, operations & delivery, and institutional strategy.
 
 #### Core Pillars
@@ -43,24 +43,25 @@ I work with tech startups and SMEs to build the systems that turn R&D into marke
 
 ---
 
-### F3I — Funding & Institutional Intelligence
+### <a href="https://kairostech.fr/offres/f3i.html"><img src="https://img.shields.io/badge/F3I-10B981?style=flat-square" alt="F3I  Website" /></a> | Funding & Institutional Intelligence
 
-> *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the real problem.*
+> *European public R&D funding exists. Finding it across 27 countries and hundreds of sources is the problem.*
 
-F3I is a platform built to solve this systematically: it monitors official European and national public sources continuously and surfaces only the opportunities that match an organisation's actual profile and research topic.
+F3I is a platform built to solve this : it monitors official European and national public sources and surfaces only the opportunities that match an organization's actual profile and research project.
 
-* **AI-powered monitoring** across 12 countries and EU programmes (BPIFrance, Horizon Europe, EIC, and national agencies in DE, IT, ES, PL).
-* **Proximity scoring**: Each call is ranked against a custom profile (sector, maturity stage, geography, strategic priorities).
-* **Collaborative pipeline**: Filterable dashboard with weekly automated digests and shareable read-only access.
+* **AI-powered monitoring** across ~~5~~ ~~12~~ 17 countries and EU programs (BPIFrance, Horizon Europe, EIC, and national agencies in DE, IT, ES, PL).
+* **Proximity scoring**: Each call is ranked against a specific project profile (sector, maturity stage, geography, strategic priorities).
+* **Collaborative pipeline**: Filterable dashboard with automated digests and shareable read-only access.
 
 🔗 **[Live Demo Dashboard](https://f3i.kairostech.fr/share/UXVe89tk1wSNiLZhjFaGu0vji2R43kRtY1ONthSRHAA)** &nbsp;|&nbsp; ✉️ **[Request a Demo](mailto:contact@kairostech.fr)**  
-*_Source code is private for now — until interest is confirmed._*
+*Source code is private for now*, *until interest is confirmed.*
 
 ---
 
 ## Self-hosting · Homelab & Home Automation
 
-Started with a handful of useful self-hosted services. Now on a mission to bring both KairosTech and my personal life under my own control, as much as possible.
+Started with a handful of useful self-hosted services. 
+Now on a mission to bring both KairosTech and my personal life under my own control, as much as possible.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
