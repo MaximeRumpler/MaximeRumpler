@@ -20,12 +20,10 @@
 ## **Overview**
 
 I help founders turn complex technical ideas into structured,scalable businesses.
-
 Through [KairosTech](https://kairostech.fr), I work at the intersection of business architecture, operations, and technology.
 
 Outside of work, I explore self-hosting, home automation, open-source software, and emerging technologies.
 
-Based in France 🇫🇷
 ---
 
 ## <a href="https://kairostech.fr"><img src="https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square" alt="KairosTech Website" /></a>
