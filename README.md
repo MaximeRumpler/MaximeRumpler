@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Maxime Rumpler Banner" width="100%" />
 </p>
-
 <p align="center">
   <strong>Business Enabler · Homelab Tinkerer</strong><br>
 </p>
