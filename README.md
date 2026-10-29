@@ -19,7 +19,7 @@
 
 ---
 
-### **Overview**
+## **Overview**
 
 **KairosTech**
 > *Building the structural backbone so founders can focus on innovation.*  
@@ -35,10 +35,9 @@ I partner with founders to design scalable business architecture, technical oper
 > *The backbone behind your innovation.*
 I work with tech startups and SMEs to build the systems that turn R&D into market traction: commercial architecture, operations & delivery, and institutional strategy.
 
-#### Core Pillars
-
-* **Go-to-Market**: Structure offer and sales, launch the pipeline, hire the first commercial profiles.
-* **Operations**: Organise and deliver operations, strategic projects, and customer support with rigour, tooling, and method.
+### Core Pillars
+* **Go-to-Market**: Structure offer and sales, launch the pipeline, hire the first sales & Support profiles.
+* **Operations**: Organize strategic projects, and customer support with rigorous tooling and methods.
 * **F3I**: Non-dilutive funding, institutional monitoring, and influence networks, optimised through AI.
 
 ---
