@@ -4,7 +4,6 @@
 
 <p align="center">
   <strong>Business Enabler · Homelab Tinkerer</strong><br>
-  Based in France
 </p>
 
 <p align="center">
