@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/banner.svg" alt="Maxime Rumpler Banner" width="100%" />
 </p>
@@ -21,14 +20,13 @@
 
 ## **Overview**
 
-**KairosTech**
-> *Building the structural backbone so founders can focus on innovation.*  
-I partner with founders to design scalable business architecture, technical operations, and turn complex ideas into robust value.
+I help founders turn complex technical ideas into structured,scalable businesses.
 
+Through [KairosTech](https://kairostech.fr), I work at the intersection of business architecture, operations, and technology.
 
-**Tinkering & Continuous Learning**
-> Self-hosting, Tracking Innovation and Open Source projects
+Outside of work, I explore self-hosting, home automation, open-source software, and emerging technologies.
 
+Based in France 🇫🇷
 ---
 
 ## <a href="https://kairostech.fr"><img src="https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square" alt="KairosTech Website" /></a>
@@ -48,12 +46,13 @@ I work with tech startups and SMEs to build the systems that turn R&D into marke
 
 F3I is a platform built to solve this : it monitors official European and national public sources and surfaces only the opportunities that match an organization's actual profile and research project.
 
-* **AI-powered monitoring** across ~~5~~ ~~12~~ 17 countries and EU programs (BPIFrance, Horizon Europe, EIC, and national agencies in DE, IT, ES, PL).
-* **Proximity scoring**: Each call is ranked against a specific project profile (sector, maturity stage, geography, strategic priorities).
-* **Collaborative pipeline**: Filterable dashboard with automated digests and shareable read-only access.
+### Key Capabilities
+
+- **Multi-source monitoring**: Automated monitoring of official European and national funding sources across now 17 countries.
+- **AI-powered relevance scoring**: Rank funding opportunities against an organization's profile, research project, maturity, geography, and strategic priorities.
+- **Collaborative opportunity pipeline**: Centralized dashboard with filtering, automated digests, and shareable read-only access.
 
 🔗 **[Live Demo Dashboard](https://f3i.kairostech.fr/share/UXVe89tk1wSNiLZhjFaGu0vji2R43kRtY1ONthSRHAA)** &nbsp;|&nbsp; ✉️ **[Request a Demo](mailto:contact@kairostech.fr)**  
-*Source code is private for now*, *until interest is confirmed.*
 
 ---
 
