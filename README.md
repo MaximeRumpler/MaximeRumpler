@@ -19,17 +19,17 @@
 ## **Overview**
 
 I help founders turn complex technical ideas into structured,scalable businesses.
-Through [KairosTech](https://kairostech.fr), I work at the intersection of business architecture, operations, and technology.
+Through [KairosTech](https://kairostech.fr), I work at the intersection of business,  operations, and technology.
 
 Outside of work, I explore self-hosting, home automation, open-source software, and emerging technologies.
 
 ---
 
 ## <a href="https://kairostech.fr"><img src="https://img.shields.io/badge/KairosTech-kairostech.fr-10B981?style=flat-square" alt="KairosTech Website" /></a>
+
 > *The backbone behind your innovation.*
 I work with tech startups and SMEs to build the systems that turn R&D into market traction: commercial architecture, operations & delivery, and institutional strategy.
 
-### Core Pillars
 * **Go-to-Market**: Structure offer and sales, launch the pipeline, hire the first sales & Support profiles.
 * **Operations**: Organize strategic projects, and customer support with rigorous tooling and methods.
 * **F3I**: Non-dilutive funding, institutional monitoring, and influence networks, optimised through AI.
@@ -42,13 +42,20 @@ I work with tech startups and SMEs to build the systems that turn R&D into marke
 
 F3I is a platform built to solve this : it monitors official European and national public sources and surfaces only the opportunities that match an organization's actual profile and research project.
 
-### Key Capabilities
-
-- **Multi-source monitoring**: Automated monitoring of official European and national funding sources across now 17 countries.
-- **AI-powered relevance scoring**: Rank funding opportunities against an organization's profile, research project, maturity, geography, and strategic priorities.
-- **Collaborative opportunity pipeline**: Centralized dashboard with filtering, automated digests, and shareable read-only access.
-
 🔗 **[Live Demo Dashboard](https://f3i.kairostech.fr/share/UXVe89tk1wSNiLZhjFaGu0vji2R43kRtY1ONthSRHAA)** &nbsp;|&nbsp; ✉️ **[Request a Demo](mailto:contact@kairostech.fr)**  
+
+---
+
+## AI Agent Skill : /Make_PPT
+
+Make PPTX is a set of three skills
+You give it your notes or content and you get back a PowerPoint deck built from tested slide designs and checked before delivery.
+
+Each skill does one job, and you only use the ones you need:
+
+<p align="center">
+  <img src="assets/Make_PPT_flow.svg" alt="Make PowerPoint Flow" width="100%" />
+</p>
 
 ---
 
