@@ -1,50 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="270" viewBox="0 0 800 270" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="244" viewBox="0 0 800 244" role="img" aria-labelledby="t d">
 <title id="t">Maxime Rumpler, Business Enabler and Homelab Tinkerer</title>
 <desc id="d">Banner showing a pipeline from R&amp;D through offer, pipeline and delivery to market traction, with a bar series rising along the way.</desc>
-<defs><clipPath id="clip"><polygon points="0,0 760,0 800,40 800,270 40,270 0,230"/></clipPath><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1A2740"/></pattern><style>.b{transform-box:fill-box;transform-origin:50% 100%;animation:rise .7s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1)}}.trk{stroke-dasharray:520;animation:draw 1.4s ease-out .2s both}@keyframes draw{from{stroke-dashoffset:520}to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.b,.trk{animation:none}}</style></defs>
-<polygon points="0,0 760,0 800,40 800,270 40,270 0,230" fill="#0B1220"/>
+<defs><clipPath id="clip"><polygon points="0,0 760,0 800,40 800,244 40,244 0,204"/></clipPath><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1A2740"/></pattern><style>.b{transform-box:fill-box;transform-origin:50% 100%;animation:rise .7s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1)}}.trk{stroke-dasharray:520;animation:draw 1.4s ease-out .2s both}@keyframes draw{from{stroke-dashoffset:520}to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.b,.trk{animation:none}}</style></defs>
+<polygon points="0,0 760,0 800,40 800,244 40,244 0,204" fill="#0B1220"/>
 <g clip-path="url(#clip)">
-<rect width="800" height="270" fill="url(#dots)"/>
-<rect class="b" style="animation-delay:0.60s" x="478" y="162" width="7" height="10" fill="#10B981" opacity="0.22"/>
-<rect class="b" style="animation-delay:0.64s" x="489.5" y="166.8" width="7" height="5.2" fill="#10B981" opacity="0.25"/>
-<rect class="b" style="animation-delay:0.68s" x="501" y="156.7" width="7" height="15.3" fill="#10B981" opacity="0.29"/>
-<rect class="b" style="animation-delay:0.72s" x="512.5" y="153.2" width="7" height="18.8" fill="#10B981" opacity="0.32"/>
-<rect class="b" style="animation-delay:0.76s" x="524" y="156.4" width="7" height="15.6" fill="#10B981" opacity="0.36"/>
-<rect class="b" style="animation-delay:0.80s" x="535.5" y="145.4" width="7" height="26.6" fill="#10B981" opacity="0.39"/>
-<rect class="b" style="animation-delay:0.84s" x="547" y="141.1" width="7" height="30.9" fill="#10B981" opacity="0.42"/>
-<rect class="b" style="animation-delay:0.88s" x="558.5" y="143.7" width="7" height="28.3" fill="#10B981" opacity="0.46"/>
-<rect class="b" style="animation-delay:0.92s" x="570" y="132.1" width="7" height="39.9" fill="#10B981" opacity="0.49"/>
-<rect class="b" style="animation-delay:0.96s" x="581.5" y="127.3" width="7" height="44.7" fill="#10B981" opacity="0.53"/>
-<rect class="b" style="animation-delay:1.00s" x="593" y="129.5" width="7" height="42.5" fill="#10B981" opacity="0.56"/>
-<rect class="b" style="animation-delay:1.04s" x="604.5" y="117.5" width="7" height="54.5" fill="#10B981" opacity="0.59"/>
-<rect class="b" style="animation-delay:1.08s" x="616" y="112.3" width="7" height="59.7" fill="#10B981" opacity="0.63"/>
-<rect class="b" style="animation-delay:1.12s" x="627.5" y="114.1" width="7" height="57.9" fill="#10B981" opacity="0.66"/>
-<rect class="b" style="animation-delay:1.16s" x="639" y="101.8" width="7" height="70.2" fill="#10B981" opacity="0.69"/>
-<rect class="b" style="animation-delay:1.20s" x="650.5" y="96.4" width="7" height="75.6" fill="#10B981" opacity="0.73"/>
-<rect class="b" style="animation-delay:1.24s" x="662" y="97.8" width="7" height="74.2" fill="#10B981" opacity="0.76"/>
-<rect class="b" style="animation-delay:1.28s" x="673.5" y="85.2" width="7" height="86.8" fill="#10B981" opacity="0.80"/>
-<rect class="b" style="animation-delay:1.32s" x="685" y="79.6" width="7" height="92.4" fill="#10B981" opacity="0.83"/>
-<rect class="b" style="animation-delay:1.36s" x="696.5" y="80.8" width="7" height="91.2" fill="#10B981" opacity="0.86"/>
-<rect class="b" style="animation-delay:1.40s" x="708" y="68" width="7" height="104" fill="#10B981" opacity="0.90"/>
-<rect class="b" style="animation-delay:1.44s" x="719.5" y="62" width="7" height="110" fill="#10B981" opacity="0.93"/>
-<rect class="b" style="animation-delay:1.48s" x="731" y="63.1" width="7" height="108.9" fill="#10B981" opacity="0.97"/>
-<rect class="b" style="animation-delay:1.52s" x="742.5" y="50" width="7" height="122" fill="#10B981" opacity="1.00"/>
+<rect width="800" height="244" fill="url(#dots)"/>
+<rect class="b" style="animation-delay:0.60s" x="478" y="148" width="7" height="10" fill="#10B981" opacity="0.22"/>
+<rect class="b" style="animation-delay:0.64s" x="489.5" y="152.9" width="7" height="5.1" fill="#10B981" opacity="0.25"/>
+<rect class="b" style="animation-delay:0.68s" x="501" y="143.1" width="7" height="14.9" fill="#10B981" opacity="0.29"/>
+<rect class="b" style="animation-delay:0.72s" x="512.5" y="139.8" width="7" height="18.2" fill="#10B981" opacity="0.32"/>
+<rect class="b" style="animation-delay:0.76s" x="524" y="143.3" width="7" height="14.7" fill="#10B981" opacity="0.36"/>
+<rect class="b" style="animation-delay:0.80s" x="535.5" y="132.6" width="7" height="25.4" fill="#10B981" opacity="0.39"/>
+<rect class="b" style="animation-delay:0.84s" x="547" y="128.6" width="7" height="29.4" fill="#10B981" opacity="0.42"/>
+<rect class="b" style="animation-delay:0.88s" x="558.5" y="131.5" width="7" height="26.5" fill="#10B981" opacity="0.46"/>
+<rect class="b" style="animation-delay:0.92s" x="570" y="120.2" width="7" height="37.8" fill="#10B981" opacity="0.49"/>
+<rect class="b" style="animation-delay:0.96s" x="581.5" y="115.8" width="7" height="42.2" fill="#10B981" opacity="0.53"/>
+<rect class="b" style="animation-delay:1.00s" x="593" y="118.3" width="7" height="39.7" fill="#10B981" opacity="0.56"/>
+<rect class="b" style="animation-delay:1.04s" x="604.5" y="106.6" width="7" height="51.4" fill="#10B981" opacity="0.59"/>
+<rect class="b" style="animation-delay:1.08s" x="616" y="101.9" width="7" height="56.1" fill="#10B981" opacity="0.63"/>
+<rect class="b" style="animation-delay:1.12s" x="627.5" y="104" width="7" height="54" fill="#10B981" opacity="0.66"/>
+<rect class="b" style="animation-delay:1.16s" x="639" y="92.1" width="7" height="65.9" fill="#10B981" opacity="0.69"/>
+<rect class="b" style="animation-delay:1.20s" x="650.5" y="87" width="7" height="71" fill="#10B981" opacity="0.73"/>
+<rect class="b" style="animation-delay:1.24s" x="662" y="88.9" width="7" height="69.1" fill="#10B981" opacity="0.76"/>
+<rect class="b" style="animation-delay:1.28s" x="673.5" y="76.7" width="7" height="81.3" fill="#10B981" opacity="0.80"/>
+<rect class="b" style="animation-delay:1.32s" x="685" y="71.4" width="7" height="86.6" fill="#10B981" opacity="0.83"/>
+<rect class="b" style="animation-delay:1.36s" x="696.5" y="73.1" width="7" height="84.9" fill="#10B981" opacity="0.86"/>
+<rect class="b" style="animation-delay:1.40s" x="708" y="60.7" width="7" height="97.3" fill="#10B981" opacity="0.90"/>
+<rect class="b" style="animation-delay:1.44s" x="719.5" y="55.2" width="7" height="102.8" fill="#10B981" opacity="0.93"/>
+<rect class="b" style="animation-delay:1.48s" x="731" y="56.6" width="7" height="101.4" fill="#10B981" opacity="0.97"/>
+<rect class="b" style="animation-delay:1.52s" x="742.5" y="44" width="7" height="114" fill="#10B981" opacity="1.00"/>
 </g>
-<polygon points="0,0 760,0 800,40 800,270 40,270 0,230" fill="none" stroke="#26354F" stroke-width="2"/>
-<line x1="760" y1="0" x2="800" y2="40" stroke="#10B981" stroke-width="4"/><line x1="0" y1="230" x2="40" y2="270" stroke="#10B981" stroke-width="4"/>
-<text x="48" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E6EDF6" text-anchor="start">Maxime Rumpler</text>
-<text x="50" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#92A3BD" text-anchor="start">Business Enabler / Homelab Tinkerer</text>
-<text x="50" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#10B981" text-anchor="start">KairosTech: from R&amp;D to market traction</text>
-<line x1="64" y1="214" x2="218" y2="214" stroke="#6B7C96" stroke-width="2" stroke-dasharray="3 7"/>
-<line class="trk" x1="218" y1="214" x2="680" y2="214" stroke="#0B7A58" stroke-width="2"/>
-<circle cx="64" cy="214" r="7" fill="#0B1220" stroke="#6B7C96" stroke-width="2"/>
-<text x="64" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">R&amp;D</text>
-<circle cx="218" cy="214" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
-<text x="218" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">OFFER</text>
-<circle cx="372" cy="214" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
-<text x="372" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">PIPELINE</text>
-<circle cx="526" cy="214" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
-<text x="526" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">DELIVERY</text>
-<circle cx="680" cy="214" r="13" fill="none" stroke="#10B981" stroke-width="1.5" opacity="0.45"/><circle cx="680" cy="214" r="7" fill="#10B981"/>
-<text x="680" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">TRACTION</text>
+<polygon points="0,0 760,0 800,40 800,244 40,244 0,204" fill="none" stroke="#26354F" stroke-width="2"/>
+<line x1="760" y1="0" x2="800" y2="40" stroke="#10B981" stroke-width="4"/><line x1="0" y1="204" x2="40" y2="244" stroke="#10B981" stroke-width="4"/>
+<text x="48" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E6EDF6" text-anchor="start">Maxime Rumpler</text>
+<text x="50" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#92A3BD" text-anchor="start">Business Enabler / Homelab Tinkerer</text>
+<line x1="64" y1="192" x2="218" y2="192" stroke="#6B7C96" stroke-width="2" stroke-dasharray="3 7"/>
+<line class="trk" x1="218" y1="192" x2="680" y2="192" stroke="#0B7A58" stroke-width="2"/>
+<circle cx="64" cy="192" r="7" fill="#0B1220" stroke="#6B7C96" stroke-width="2"/>
+<text x="64" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">R&amp;D</text>
+<circle cx="218" cy="192" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
+<text x="218" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">OFFER</text>
+<circle cx="372" cy="192" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
+<text x="372" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">PIPELINE</text>
+<circle cx="526" cy="192" r="7" fill="#0B1220" stroke="#10B981" stroke-width="2"/>
+<text x="526" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">DELIVERY</text>
+<circle cx="680" cy="192" r="13" fill="none" stroke="#10B981" stroke-width="1.5" opacity="0.45"/><circle cx="680" cy="192" r="7" fill="#10B981"/>
+<text x="680" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="middle">TRACTION</text>
 </svg>

@@ -3,13 +3,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:maxime@rumpler.fr"><img src="assets/contact-email-perso.svg" height="34" alt="Personal email maxime@rumpler.fr" /></a>
-  <a href="mailto:maxime@kairostech.fr"><img src="assets/contact-email-pro.svg" height="34" alt="Work email maxime@kairostech.fr" /></a>
-  <a href="https://t.me/Maxime_Rumpler"><img src="assets/contact-telegram.svg" height="34" alt="Telegram @Maxime_Rumpler" /></a>
-  <a href="https://linkedin.com/in/maximerumpler"><img src="assets/contact-linkedin.svg" height="34" alt="LinkedIn maximerumpler" /></a>
-  <a href="https://mastodon.social/@Max__ime"><img src="assets/contact-mastodon.svg" height="34" alt="Mastodon @Max__ime" /></a>
-  <a href="https://substack.com/@maximerumpler"><img src="assets/contact-substack.svg" height="34" alt="Substack maximerumpler" /></a>
-  <a href="https://kairostech.fr"><img src="assets/contact-web.svg" height="34" alt="KairosTech website kairostech.fr" /></a>
+  <a href="mailto:maxime@rumpler.fr"><img src="assets/contact-email-perso.svg" height="28" alt="Personal email maxime@rumpler.fr" /></a>
+  <a href="mailto:maxime@kairostech.fr"><img src="assets/contact-email-pro.svg" height="28" alt="Work email maxime@kairostech.fr" /></a>
+  <a href="https://t.me/Maxime_Rumpler"><img src="assets/contact-telegram.svg" height="28" alt="Telegram @Maxime_Rumpler" /></a>
+  <a href="https://linkedin.com/in/maximerumpler"><img src="assets/contact-linkedin.svg" height="28" alt="LinkedIn maximerumpler" /></a>
+  <a href="https://mastodon.social/@Max__ime"><img src="assets/contact-mastodon.svg" height="28" alt="Mastodon @Max__ime" /></a>
+  <a href="https://substack.com/@maximerumpler"><img src="assets/contact-substack.svg" height="28" alt="Substack maximerumpler" /></a>
+  <a href="https://kairostech.fr"><img src="assets/contact-web.svg" height="28" alt="KairosTech website kairostech.fr" /></a>
 </p>
 
 I help founders turn a technical idea into a business that sells. I do it through [KairosTech](https://kairostech.fr): offer, operations, funding. Off the clock I self-host too many services and automate my home.
@@ -68,11 +68,11 @@ npx skills add MaximeRumpler/Make_Clean_PPTX
 
 <img src="assets/divider-knowledge.svg" width="100%" alt="" />
 
-## Marketing Mix 9P <sup>FR</sup>
+## Marketing Mix 9P
 
-<img src="assets/marketing-mix.svg" width="100%" alt="The nine Ps in three layers. 1960, the classic 4P: Product, Price, Place, Promotion. 1981, three more for services, making 7P: People, Process, Physical evidence. Bonus, outside the academic model, making 9P: Purple Cow and Partnership." />
+<img src="assets/marketing-mix.svg" width="100%" alt="The nine Ps in three layers. 1960, the classic 4P: Product, Price, Place, Promotion. 1981, three more for services, making 7P: People, Process, Physical evidence. Two bonus Ps make 9P: Purple Cow and Partnership." />
 
-[Marketing Mix 9P](https://maximerumpler.github.io/Marketing_Mix_9P/) is an open-knowledge training kit with analysis grids to structure or audit a product or a service. It goes from the classic marketing mix to the 7P model for services, then to 9P with Purple Cow and Partnership. Use it to put the value proposition, the positioning and the go-to-market plan in writing. The material is in French for now, an English version is planned.
+[Marketing Mix 9P](https://maximerumpler.github.io/Marketing_Mix_9P/) is an open-knowledge training kit with analysis grids to structure or audit a product or a service. It goes from the classic marketing mix to the 7P model for services, then to 9P with Purple Cow and Partnership. Use it to put the value proposition, the positioning and the go-to-market plan in writing. The content is in French only for now. English is coming soon.
 
 [Online documentation (FR)](https://maximerumpler.github.io/Marketing_Mix_9P/) · [GitHub repository](https://github.com/MaximeRumpler/Marketing_Mix_9P)
 

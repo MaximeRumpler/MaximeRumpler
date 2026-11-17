@@ -3,7 +3,7 @@
 <desc id="d">Three offers: Go-to-Market (offer and sales structure, pipeline launch, first sales and support hires), Operations (strategic project organization, customer support, rigorous tooling and methods), F3I (non-dilutive funding, institutional monitoring, influence networks optimized by AI).</desc>
 <defs></defs>
 <g transform="translate(0,0)">
-<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/><line x1="778" y1="0" x2="800" y2="22" stroke="#10B981" stroke-width="4"/><line x1="0" y1="78" x2="22" y2="100" stroke="#10B981" stroke-width="4"/>
 <rect x="0" y="0" width="64" height="4" fill="#10B981"/>
 <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">01</text>
 <text x="24" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#E6EDF6" text-anchor="start">Go-to-Market</text>
@@ -17,7 +17,7 @@
 <text x="334" y="79" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#E6EDF6" text-anchor="start">First sales and support hires</text>
 </g>
 <g transform="translate(0,110)">
-<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/><line x1="778" y1="0" x2="800" y2="22" stroke="#10B981" stroke-width="4"/><line x1="0" y1="78" x2="22" y2="100" stroke="#10B981" stroke-width="4"/>
 <rect x="0" y="0" width="64" height="4" fill="#10B981"/>
 <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">02</text>
 <text x="24" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#E6EDF6" text-anchor="start">Operations</text>
@@ -31,7 +31,7 @@
 <text x="334" y="79" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#E6EDF6" text-anchor="start">Rigorous tooling and methods</text>
 </g>
 <g transform="translate(0,220)">
-<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#10B981" stroke-width="1.5"/>
+<polygon points="0,0 778,0 800,22 800,100 22,100 0,78" fill="#0B1220" stroke="#10B981" stroke-width="1.5"/><line x1="778" y1="0" x2="800" y2="22" stroke="#10B981" stroke-width="4"/><line x1="0" y1="78" x2="22" y2="100" stroke="#10B981" stroke-width="4"/>
 <rect x="0" y="0" width="64" height="4" fill="#10B981"/>
 <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">03</text>
 <text x="24" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#E6EDF6" text-anchor="start">F3I</text>

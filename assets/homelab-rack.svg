@@ -2,7 +2,7 @@
 <title id="t">Homelab rack: self-hosted stack</title>
 <desc id="d">Rack diagram. Infra and network: Ubuntu, Debian, Caddy, NextDNS. Self-hosted and ops: Home Assistant, Frigate, OpenProject, n8n, Twenty, Jellyfin, Copyparty, FreshRSS, Bichon, Ollama. Dev, code and AI: GitLab, Python, PowerShell, Claude Code, Opencode. Daily stack: Obsidian, LibreOffice, Raindrop, Thunderbird, KeePassXC, Calibre, Firefox, Steam.</desc>
 <defs></defs>
-<polygon points="0,0 772,0 800,28 800,289 28,289 0,261" fill="#0B1220" stroke="#26354F" stroke-width="2"/>
+<polygon points="0,0 772,0 800,28 800,289 28,289 0,261" fill="#0B1220" stroke="#26354F" stroke-width="2"/><line x1="772" y1="0" x2="800" y2="28" stroke="#10B981" stroke-width="4"/><line x1="0" y1="261" x2="28" y2="289" stroke="#10B981" stroke-width="4"/>
 <circle cx="22" cy="46" r="4" fill="none" stroke="#6B7C96" stroke-width="1.5"/>
 <circle cx="22" cy="243" r="4" fill="none" stroke="#6B7C96" stroke-width="1.5"/>
 <circle cx="778" cy="46" r="4" fill="none" stroke="#6B7C96" stroke-width="1.5"/>

@@ -2,7 +2,7 @@
 <title id="t">F3I filters public funding sources down to matching opportunities</title>
 <desc id="d">On the left, a dense field of funding sources across 27 countries. In the middle, a funnel with three gates: official sources only, organization profile, research project. On the right, three matching opportunities.</desc>
 <defs></defs>
-<polygon points="0,0 772,0 800,28 800,372 28,372 0,344" fill="#111B30" stroke="#26354F" stroke-width="1.5"/>
+<polygon points="0,0 772,0 800,28 800,372 28,372 0,344" fill="#111B30" stroke="#26354F" stroke-width="1.5"/><line x1="772" y1="0" x2="800" y2="28" stroke="#10B981" stroke-width="4"/><line x1="0" y1="344" x2="28" y2="372" stroke="#10B981" stroke-width="4"/>
 <text x="28" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="start">27 COUNTRIES / HUNDREDS OF SOURCES</text>
 <text x="776" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="end">ONLY WHAT FITS</text>
 <polygon points="306,82 604,172 604,240 306,330" fill="#10B981" fill-opacity="0.08" stroke="#10B981" stroke-width="1.5" stroke-opacity="0.8"/>
