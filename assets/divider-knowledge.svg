@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-labelledby="t d">
-<title id="t">Section 04: OPEN KNOWLEDGE</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="44" viewBox="0 0 800 44" role="img" aria-labelledby="t d">
+<title id="t">Section 04: Open knowledge</title>
 <desc id="d">Decorative section divider with a ruler line.</desc>
 <defs></defs>
-
-<polygon points="0,8 199.0,8 217.0,22 199.0,36 0,36" fill="#0B7A58"/>
-<text x="14" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start" textLength="171.0" lengthAdjust="spacing">04 / OPEN KNOWLEDGE</text>
-<line x1="233.0" y1="22" x2="1176" y2="22" stroke="#6B7C96" stroke-width="1.5" opacity="0.6"/>
-<line x1="269" y1="17" x2="269" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="329" y1="17" x2="329" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="389" y1="17" x2="389" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="449" y1="17" x2="449" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="509" y1="17" x2="509" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="569" y1="17" x2="569" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="629" y1="17" x2="629" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="689" y1="17" x2="689" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="749" y1="17" x2="749" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="809" y1="17" x2="809" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="869" y1="17" x2="869" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="929" y1="17" x2="929" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="989" y1="17" x2="989" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1049" y1="17" x2="1049" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1109" y1="17" x2="1109" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/>
-<circle cx="1186" cy="22" r="4" fill="#10B981"/>
-
+<polygon points="0,6 239.2,6 255.2,22 239.2,38 0,38" fill="#0B7A58"/>
+<text x="16" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">04 / OPEN KNOWLEDGE</text>
+<line x1="269.2" y1="22" x2="776" y2="22" stroke="#6B7C96" stroke-width="1.5" opacity="0.6"/>
+<line x1="309" y1="17" x2="309" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="359" y1="17" x2="359" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="409" y1="17" x2="409" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="459" y1="17" x2="459" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="509" y1="17" x2="509" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="559" y1="17" x2="559" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="609" y1="17" x2="609" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="659" y1="17" x2="659" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="709" y1="17" x2="709" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="759" y1="17" x2="759" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/>
+<circle cx="788" cy="22" r="4" fill="#10B981"/>
 </svg>

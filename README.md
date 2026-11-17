@@ -24,15 +24,6 @@ I work with tech startups and SMEs on what sits between a working prototype and 
 
 <img src="assets/kairostech-offers.svg" width="100%" alt="KairosTech offers. Go-to-Market: offer and sales structure, pipeline launch, first sales and support hires. Operations: strategic project organization, customer support, rigorous tooling and methods. F3I: non-dilutive funding, institutional monitoring, influence networks optimized by AI." />
 
-<details>
-<summary>Offers as text</summary>
-
-- **Go-to-Market**: offer and sales structure, pipeline launch, first sales and support hires.
-- **Operations**: strategic project organization, customer support, tooling and methods.
-- **F3I**: non-dilutive funding, institutional monitoring, influence networks optimized by AI.
-
-</details>
-
 <img src="assets/divider-f3i.svg" width="100%" alt="" />
 
 ## F3I: Funding and Institutional Intelligence
@@ -53,11 +44,11 @@ Give it your notes, get back a PowerPoint deck built from tested slide designs a
 
 <img src="assets/make-pptx-flow.svg" width="100%" alt="Notes pass through three optional skills, Form, Look and Brand, and come out as a PowerPoint deck checked before delivery." />
 
-| Skill | Role | What it does |
-| --- | --- | --- |
-| [Make_Clean_PPTX](https://github.com/MaximeRumpler/Make_Clean_PPTX) | Form | Notes in, monochrome deck out. One message per slide, 54 layouts, 81 editable charts, 1,900 icons. |
-| [Make_Style_PPTX](https://github.com/MaximeRumpler/Make_PPTX) *(preview)* | Look | Reshapes an existing deck: alternative card shapes, staggered or arced layouts, new backgrounds. |
-| [Make_Colors_PPTX](https://github.com/MaximeRumpler/Make_PPTX) *(preview)* | Brand | Applies your exact colors, typography and logo from brand guidelines, a website or reference files. |
+| Skill | What it does |
+| --- | --- |
+| [Make_Clean_PPTX](https://github.com/MaximeRumpler/Make_Clean_PPTX) | Notes in, monochrome deck out. One message per slide, 54 layouts, 81 editable charts, 1,900 icons. |
+| [Make_Style_PPTX](https://github.com/MaximeRumpler/Make_PPTX) *(preview)* | Reshapes an existing deck: alternative card shapes, staggered or arced layouts, new backgrounds. |
+| [Make_Colors_PPTX](https://github.com/MaximeRumpler/Make_PPTX) *(preview)* | Applies your exact colors, typography and logo from brand guidelines, a website or reference files. |
 
 Works with Claude Code, Claude.ai, Codex, Cursor, Copilot and Gemini CLI. Outputs stay 100% yours. [Get started](https://github.com/MaximeRumpler/Make_PPTX/blob/main/docs/get-started.md).
 
@@ -79,11 +70,11 @@ npx skills add MaximeRumpler/Make_Clean_PPTX
 
 ## Marketing Mix 9P <sup>FR</sup>
 
-<img src="assets/marketing-mix.svg" width="100%" alt="Trois rangées de cercles pour les modèles 7P, 9P et 10P." />
+<img src="assets/marketing-mix.svg" width="100%" alt="The nine Ps in three layers. 1960, the classic 4P: Product, Price, Place, Promotion. 1981, three more for services, making 7P: People, Process, Physical evidence. Bonus, outside the academic model, making 9P: Purple Cow and Partnership." />
 
-[Marketing Mix 9P](https://maximerumpler.github.io/Marketing_Mix_9P/) rassemble en libre accès (open knowledge) des supports de formation et des grilles d'analyse pour structurer ou auditer un produit ou un service. Du marketing mix classique à 7P jusqu'aux modèles à 9P et 10P, il sert à écrire noir sur blanc la proposition de valeur, le positionnement et le plan de mise sur le marché. Documentation en français pour l'instant, version anglaise prévue.
+[Marketing Mix 9P](https://maximerumpler.github.io/Marketing_Mix_9P/) is an open-knowledge training kit with analysis grids to structure or audit a product or a service. It goes from the classic marketing mix to the 7P model for services, then to 9P with Purple Cow and Partnership. Use it to put the value proposition, the positioning and the go-to-market plan in writing. The material is in French for now, an English version is planned.
 
-[Documentation en ligne](https://maximerumpler.github.io/Marketing_Mix_9P/) · [Dépôt GitHub](https://github.com/MaximeRumpler/Marketing_Mix_9P)
+[Online documentation (FR)](https://maximerumpler.github.io/Marketing_Mix_9P/) · [GitHub repository](https://github.com/MaximeRumpler/Marketing_Mix_9P)
 
 <img src="assets/divider-homelab.svg" width="100%" alt="" />
 
@@ -92,15 +83,5 @@ npx skills add MaximeRumpler/Make_Clean_PPTX
 Started with a handful of useful self-hosted services. Now on a mission to bring both KairosTech and my personal life under my own control, as much as possible.
 
 <img src="assets/homelab-rack.svg" width="100%" alt="Homelab rack. Infra and network: Ubuntu, Debian, Caddy, NextDNS. Self-hosted and ops: Home Assistant, Frigate, OpenProject, n8n, Twenty, Jellyfin, Copyparty, FreshRSS, Bichon, Ollama. Dev, code and AI: GitLab, Python, PowerShell, Claude Code, Opencode. Daily stack: Obsidian, LibreOffice, Raindrop, Thunderbird, KeePassXC, Calibre, Firefox, Steam." />
-
-<details>
-<summary>Stack as text</summary>
-
-- **Infra and network**: Ubuntu, Debian, Caddy, NextDNS.
-- **Self-hosted and ops**: Home Assistant, Frigate, OpenProject, n8n, Twenty, Jellyfin, Copyparty, FreshRSS, Bichon, Ollama.
-- **Dev, code and AI**: GitLab, Python, PowerShell, Claude Code, Opencode.
-- **Daily stack**: Obsidian, LibreOffice, Raindrop, Thunderbird, KeePassXC, Calibre, Firefox, Steam.
-
-</details>
 
 <img src="assets/footer.svg" width="100%" alt="" />

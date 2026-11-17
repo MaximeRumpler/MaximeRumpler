@@ -1,37 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="t d">
 <title id="t">Marketing Mix 9P</title>
-<desc id="d">Three rows of circles for the 7P, 9P and 10P models. Circles added beyond the classic 7P are highlighted.</desc>
+<desc id="d">The nine Ps in three layers. 1960, the classic 4P: Product, Price, Place, Promotion. 1981, three more for services, making 7P: People, Process, Physical evidence. Bonus, outside the academic model, making 9P: Purple Cow and Partnership.</desc>
 <defs></defs>
-<polygon points="0,0 1164,0 1200,36 1200,160 36,160 0,124" fill="#111B30" stroke="#26354F" stroke-width="1.5"/>
-<text x="48" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#E6EDF6" text-anchor="start" textLength="15.6" lengthAdjust="spacing">7P</text>
-<circle cx="130" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="166" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="202" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="238" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="274" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="310" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="346" cy="44" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<text x="48" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#E6EDF6" text-anchor="start" textLength="15.6" lengthAdjust="spacing">9P</text>
-<circle cx="130" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="166" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="202" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="238" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="274" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="310" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="346" cy="82" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="382" cy="82" r="11" fill="#10B981"/>
-<circle cx="418" cy="82" r="11" fill="#10B981"/>
-<text x="48" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#E6EDF6" text-anchor="start" textLength="23.4" lengthAdjust="spacing">10P</text>
-<circle cx="130" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="166" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="202" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="238" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="274" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="310" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="346" cy="120" r="11" fill="none" stroke="#6B7C96" stroke-width="2"/>
-<circle cx="382" cy="120" r="11" fill="#10B981"/>
-<circle cx="418" cy="120" r="11" fill="#10B981"/>
-<circle cx="454" cy="120" r="11" fill="#10B981"/>
-<text x="1152" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" fill="#10B981" text-anchor="end" textLength="92.4" lengthAdjust="spacing">OPEN KNOWLEDGE</text>
-<text x="1152" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#92A3BD" text-anchor="end" textLength="151.8" lengthAdjust="spacing">DOCUMENTATION IN FRENCH</text>
+<polygon points="0,0 772,0 800,28 800,340 28,340 0,312" fill="#111B30" stroke="#26354F" stroke-width="1.5"/>
+<text x="32" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">1960</text>
+<text x="84.4" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="start">THE CLASSIC 4P</text>
+<text x="768" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="end">= 4P</text>
+<rect x="32" y="56" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="32" y="56" width="4" height="62" fill="#10B981"/>
+<text x="50" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P1</text>
+<text x="50" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Product</text>
+<rect x="216" y="56" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="216" y="56" width="4" height="62" fill="#10B981"/>
+<text x="234" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P2</text>
+<text x="234" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Price</text>
+<rect x="400" y="56" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="400" y="56" width="4" height="62" fill="#10B981"/>
+<text x="418" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P3</text>
+<text x="418" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Place</text>
+<rect x="584" y="56" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="584" y="56" width="4" height="62" fill="#10B981"/>
+<text x="602" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P4</text>
+<text x="602" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Promotion</text>
+<text x="32" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">1981</text>
+<text x="84.4" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="start">+3 FOR SERVICES (BOOMS &amp; BITNER)</text>
+<text x="768" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="end">= 7P</text>
+<rect x="32" y="158" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="32" y="158" width="4" height="62" fill="#10B981"/>
+<text x="50" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P5</text>
+<text x="50" y="207" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">People</text>
+<rect x="216" y="158" width="172" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="216" y="158" width="4" height="62" fill="#10B981"/>
+<text x="234" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P6</text>
+<text x="234" y="207" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Process</text>
+<rect x="400" y="158" width="227" height="62" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<rect x="400" y="158" width="4" height="62" fill="#10B981"/>
+<text x="418" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P7</text>
+<text x="418" y="207" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Physical evidence</text>
+<text x="32" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">BONUS</text>
+<text x="94" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#92A3BD" text-anchor="start">OUTSIDE THE ACADEMIC MODEL</text>
+<text x="768" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#10B981" text-anchor="end">= 9P</text>
+<rect x="32" y="260" width="172" height="62" fill="#0B1220" stroke="#10B981" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="32" y="260" width="4" height="62" fill="#10B981"/>
+<text x="50" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P8</text>
+<text x="50" y="309" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Purple Cow</text>
+<rect x="216" y="260" width="172" height="62" fill="#0B1220" stroke="#10B981" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="216" y="260" width="4" height="62" fill="#10B981"/>
+<text x="234" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#10B981" text-anchor="start">P9</text>
+<text x="234" y="309" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF6" text-anchor="start">Partnership</text>
 </svg>
