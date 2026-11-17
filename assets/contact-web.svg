@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="34" viewBox="0 0 157 34" role="img" aria-labelledby="t d">
+<title id="t">WEB kairostech.fr</title>
+<desc id="d">Contact link: WEB, kairostech.fr.</desc>
+<defs></defs>
+
+<polygon points="0,0 149.20000000000002,0 157.20000000000002,8 157.20000000000002,34 8,34 0,26" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<line x1="42.6" y1="9" x2="42.6" y2="25" stroke="#2F4163" stroke-width="1.5"/>
+<text x="14" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" fill="#10B981" text-anchor="start" textLength="21.6" lengthAdjust="spacing">WEB</text>
+<text x="56.6" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#E6EDF6" text-anchor="start" textLength="93.6" lengthAdjust="spacing">kairostech.fr</text>
+
+</svg>

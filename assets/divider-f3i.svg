@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-labelledby="t d">
+<title id="t">Section 02: F3I</title>
+<desc id="d">Decorative section divider with a ruler line.</desc>
+<defs></defs>
+
+<polygon points="0,8 100.0,8 118.0,22 100.0,36 0,36" fill="#0B7A58"/>
+<text x="14" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start" textLength="72.0" lengthAdjust="spacing">02 / F3I</text>
+<line x1="134.0" y1="22" x2="1176" y2="22" stroke="#6B7C96" stroke-width="1.5" opacity="0.6"/>
+<line x1="170" y1="17" x2="170" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="230" y1="17" x2="230" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="290" y1="17" x2="290" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="350" y1="17" x2="350" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="410" y1="17" x2="410" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="470" y1="17" x2="470" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="530" y1="17" x2="530" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="590" y1="17" x2="590" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="650" y1="17" x2="650" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="710" y1="17" x2="710" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="770" y1="17" x2="770" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="830" y1="17" x2="830" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="890" y1="17" x2="890" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="950" y1="17" x2="950" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1010" y1="17" x2="1010" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1070" y1="17" x2="1070" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1130" y1="17" x2="1130" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/>
+<circle cx="1186" cy="22" r="4" fill="#10B981"/>
+
+</svg>

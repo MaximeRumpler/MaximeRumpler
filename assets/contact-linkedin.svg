@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="34" viewBox="0 0 222 34" role="img" aria-labelledby="t d">
+<title id="t">LINKEDIN /in/maximerumpler</title>
+<desc id="d">Contact link: LINKEDIN, /in/maximerumpler.</desc>
+<defs></defs>
+
+<polygon points="0,0 214.0,0 222.0,8 222.0,34 8,34 0,26" fill="#0B1220" stroke="#2F4163" stroke-width="1.5"/>
+<line x1="78.6" y1="9" x2="78.6" y2="25" stroke="#2F4163" stroke-width="1.5"/>
+<text x="14" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" fill="#10B981" text-anchor="start" textLength="57.6" lengthAdjust="spacing">LINKEDIN</text>
+<text x="92.6" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#E6EDF6" text-anchor="start" textLength="122.4" lengthAdjust="spacing">/in/maximerumpler</text>
+
+</svg>

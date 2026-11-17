@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-labelledby="t d">
+<title id="t">Section 03: MAKE_PPTX</title>
+<desc id="d">Decorative section divider with a ruler line.</desc>
+<defs></defs>
+
+<polygon points="0,8 154.0,8 172.0,22 154.0,36 0,36" fill="#0B7A58"/>
+<text x="14" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="start" textLength="126.0" lengthAdjust="spacing">03 / MAKE_PPTX</text>
+<line x1="188.0" y1="22" x2="1176" y2="22" stroke="#6B7C96" stroke-width="1.5" opacity="0.6"/>
+<line x1="224" y1="17" x2="224" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="284" y1="17" x2="284" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="344" y1="17" x2="344" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="404" y1="17" x2="404" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="464" y1="17" x2="464" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="524" y1="17" x2="524" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="584" y1="17" x2="584" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="644" y1="17" x2="644" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="704" y1="17" x2="704" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="764" y1="17" x2="764" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="824" y1="17" x2="824" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="884" y1="17" x2="884" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="944" y1="17" x2="944" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1004" y1="17" x2="1004" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1064" y1="17" x2="1064" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/><line x1="1124" y1="17" x2="1124" y2="27" stroke="#6B7C96" stroke-width="1.5" opacity="0.45"/>
+<circle cx="1186" cy="22" r="4" fill="#10B981"/>
+
+</svg>
